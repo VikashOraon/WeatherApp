@@ -1,3 +1,4 @@
+//Update the ApiKey  here
 const key = 'Jz2spHH2MIAIAqpN499tj9G71RAJbyGY';
 
 //get weather info
